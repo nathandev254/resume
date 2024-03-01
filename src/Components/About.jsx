@@ -31,14 +31,13 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "Web developer",
   "User experience",
   "Inclusive design",
   "Focus group testing",
   "Mobile user interfaces",
   "Graphic design",
 ];
-
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
